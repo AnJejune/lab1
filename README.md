@@ -16,6 +16,6 @@ int main(void){
 
 *기울임 꼴*
 
-<img src = "https://user-images.githubusercontent.com/49185012/139569619-118c0c4c-ecb3-4ede-801e-6fe7b95a6b71.jpg" width ="200" height = "400"/>
+<img src = "https://user-images.githubusercontent.com/49185012/139569619-118c0c4c-ecb3-4ede-801e-6fe7b95a6b71.jpg" width ="600" height = "400"/>
 
 
