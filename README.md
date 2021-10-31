@@ -16,6 +16,6 @@ int main(void){
 
 *기울임 꼴*
 
-![KakaoTalk_20211031_143605389](https://user-images.githubusercontent.com/49185012/139569619-118c0c4c-ecb3-4ede-801e-6fe7b95a6b71.jpg)
+<img src = "https://user-images.githubusercontent.com/49185012/139569619-118c0c4c-ecb3-4ede-801e-6fe7b95a6b71.jpg" width ="200" height = "400"/>
 
 
